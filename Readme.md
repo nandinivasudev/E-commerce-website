@@ -88,7 +88,7 @@ E-Commerce Website
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone [YOUR_REPOSITORY_LINK](https://github.com/nandinivasudev/E-commerce-website)
 ```
 
 Navigate into the project:
